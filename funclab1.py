@@ -1,4 +1,4 @@
-
+import math
 print('Hello Git!')
 
 a = 12
@@ -9,4 +9,4 @@ def title():
     print("Title!")
 
 def kvadrat(a):
-    return a*a
+    return math.pow(a,2)
