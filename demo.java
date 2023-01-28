@@ -9,6 +9,6 @@ public class demo{
         System.out.print(res);
     }
     public static double kvadrat(int a){
-        return Math.pow(a,2);
+        return Math.pow(a,4);
     }
 }
