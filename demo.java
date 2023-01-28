@@ -7,6 +7,9 @@ public class demo{
         res = kvadrat(a);
 
         System.out.print(res);
+
+        System.out.printlb("Salem, Git");
+
     }
     public static double kvadrat(int a){
         return Math.pow(a,4);

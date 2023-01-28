@@ -11,3 +11,5 @@ def title():
 def kvadrat(a):
     return math.pow(a,2)
     
+    print("Title !")
+
